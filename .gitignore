@@ -1,3 +1,8 @@
 
 .vs/OpenGL/v16/.suo
 .vs/OpenGL/v16/Browse.VC.db
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.idb
