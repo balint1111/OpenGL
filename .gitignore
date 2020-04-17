@@ -6,3 +6,5 @@
 *.pdb
 *.obj
 *.idb
+*.opendb
+OpenGL/Debug/*
